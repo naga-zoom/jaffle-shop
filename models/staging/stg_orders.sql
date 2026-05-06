@@ -30,4 +30,4 @@ renamed as (
 
 )
 
-select * from renamed
+select *, current_timestamp() as _loaded_at from renamed
