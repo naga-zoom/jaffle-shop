@@ -48,3 +48,4 @@ select * from renamed
 -- demo 1778599729
 -- timing test 1778601327
 -- timestamps 1778601553
+-- sla test 1778601968
