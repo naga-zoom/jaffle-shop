@@ -36,3 +36,4 @@ select * from renamed
 -- ci trigger 1778589365
 -- ci trigger 1778589478
 -- ci run 1778589580
+-- snowflake run 1778589742
