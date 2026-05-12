@@ -50,3 +50,4 @@ select * from renamed
 -- timestamps 1778601553
 -- sla test 1778601968
 -- timing v2 1778602014
+-- v9 test
