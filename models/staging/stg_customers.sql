@@ -23,3 +23,4 @@ renamed as (
 select * from renamed
 -- test commit for pipeline verification
 -- trigger v2
+-- test v7 pipeline
