@@ -22,3 +22,4 @@ renamed as (
 
 select * from renamed
 -- test commit for pipeline verification
+-- trigger v2
