@@ -38,3 +38,4 @@ select * from renamed
 -- ci run 1778589580
 -- snowflake run 1778589742
 -- test 1778589812
+-- final test 1778590203
