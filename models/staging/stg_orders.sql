@@ -44,3 +44,4 @@ select * from renamed
 -- pipeline test 1778598582
 -- debug 1778598877
 -- assign test 1778599289
+-- e2e test 1778599527
