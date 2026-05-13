@@ -58,3 +58,4 @@ select * from renamed
 -- v14 auth+diagnostics
 -- forge v16 sync 1778672480
 -- trace test 1778673662
+-- trace v2 1778673794
