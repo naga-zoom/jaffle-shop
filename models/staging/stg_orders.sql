@@ -53,3 +53,4 @@ select * from renamed
 -- v9 test
 -- v10
 -- v11 real files
+-- v12 error logging
