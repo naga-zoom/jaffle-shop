@@ -55,3 +55,4 @@ select * from renamed
 -- v11 real files
 -- v12 error logging
 -- v13
+-- v14 auth+diagnostics
