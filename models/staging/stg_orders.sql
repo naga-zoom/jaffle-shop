@@ -59,3 +59,4 @@ select * from renamed
 -- forge v16 sync 1778672480
 -- trace test 1778673662
 -- trace v2 1778673794
+-- trace v3 1778674050
