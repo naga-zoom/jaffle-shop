@@ -64,3 +64,4 @@ select * from renamed
 -- loom v18 1778677491
 -- v18 test2 1778677631
 -- v18 test3 1778677702
+-- v19 1778678001
