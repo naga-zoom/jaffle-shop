@@ -60,3 +60,4 @@ select * from renamed
 -- trace test 1778673662
 -- trace v2 1778673794
 -- trace v3 1778674050
+-- trace v4 1778674265
