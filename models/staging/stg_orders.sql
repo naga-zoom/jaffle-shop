@@ -63,3 +63,4 @@ select * from renamed
 -- trace v4 1778674265
 -- loom v18 1778677491
 -- v18 test2 1778677631
+-- v18 test3 1778677702
