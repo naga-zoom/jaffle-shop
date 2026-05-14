@@ -70,3 +70,4 @@ select * from renamed
 -- v27 retry 1778752657
 -- v27 post-fix 1778755271
 -- v28 fresh pipeline 1778755393
+-- commit list test 1778756859
